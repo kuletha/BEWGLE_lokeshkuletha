@@ -1,0 +1,65 @@
+[
+    {"id":1,
+        "image":"jblj.jpg",
+        "Name":"Bluetooth Speakers",
+        "Price":"1000",
+        "title":"JBL Go Portable Wireless Bluetooth Speaker with Mic (Black)",
+        "domain": "amazon.in",
+        "category": "Bluetooth Speakers", 
+        "productId": "ABCD1234", 
+        "createdAt": "2018-08-31T09:36:08.448Z", 
+        "reviewCount": 3013,
+        "latestReviewDate": "2018-10-21T00:00:00.000Z",
+        "topScores":
+        [ 
+            { "topic": "Sound Quality","score": 4.6 },
+            { "topic": "Bass", "score": 4.2 },
+            { "topic": "Design and Build", "score": 4.2 },
+            { "topic": "Battery Backup", "score": 4.2 } 
+        ] 
+        
+    },
+
+    {"id":2,
+        "image":"jbl.jpg",
+        "Name":"Bluetooth Speakers",
+        "Price":"1000",
+        "title":"JBL Go Portable Wireless Bluetooth Speaker with Mic (Black)",
+        "domain": "amazon.in",
+        "category": "Bluetooth Speakers", 
+        "productId": "ABCD1234", 
+        "createdAt": "2018-08-31T09:36:08.448Z", 
+        "reviewCount": 3013,
+        "latestReviewDate": "2018-10-21T00:00:00.000Z",
+        "topScores":
+        [ 
+            { "topic": "Sound Quality","score": 4.6 },
+            { "topic": "Bass", "score": 4.2 },
+            { "topic": "Design and Build", "score": 4.2 },
+            { "topic": "Battery Backup", "score": 4.2 } 
+        ] 
+        
+    },
+    {"id":3,
+        "image":"jbl.jpg",
+        "Name":"Bluetooth Speakers",
+        "Price":"1000",
+        "title":"JBL Go Portable Wireless Bluetooth Speaker with Mic (Black)",
+        "domain": "amazon.in",
+        "category": "Bluetooth Speakers", 
+        "productId": "ABCD1234", 
+        "createdAt": "2018-08-31T09:36:08.448Z", 
+        "reviewCount": 3013,
+        "latestReviewDate": "2018-10-21T00:00:00.000Z",
+        "topScores":
+        [ 
+            { "topic": "Sound Quality","score": 4.6 },
+            { "topic": "Bass", "score": 4.2 },
+            { "topic": "Design and Build", "score": 4.2 },
+            { "topic": "Battery Backup", "score": 4.2 } 
+        ] 
+    
+        
+    }
+    
+]

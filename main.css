@@ -1,0 +1,57 @@
+ input[type=button]
+        {
+        border:1px solid rgba(0,0,0,0.3);
+        background:#64c8ef;
+        background:-moz-linear-gradient(top,#64c8ef 0%,#00a2e2 100%);
+        background:-webkit-gradient(linear,left top,left bottom, color-stop(0%,#64c8ef), color-stop(100%,#00a2e2));
+        background:-webkit-linear-gradient(top, #64c8ef 0%,#00a2e2 100%);
+        background:-o-linear-gradient(top, #64c8ef 0%,#00a2e2 100%);
+        background:-ms-linear-gradient(top, #64c8ef 0%,#00a2e2 100%);
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#64c8ef',endColorstr='#00a2e2',gradient Type=0);
+        color:#fff;
+        padding:5px 15px;
+        margin-right:0;
+        margin-top:15px;
+        border-radius:3px;
+        text-shadow:1px 1px 0px rgba(0,0,0,0.3);
+        }
+        table, th, td 
+        {
+          border: 1px solid black;
+          border-collapse: collapse;
+        }
+        th, td 
+        {
+          padding: 10px;
+        }
+        table tr:nth-child(even) 
+        {
+          background-color: #eee;
+        }
+        table tr:nth-child(odd) 
+        {
+          background-color: #fff;
+        }
+        table th 
+        {
+          color: white;
+          background-color: black;
+        }
+        input[type=text]
+        {
+        padding:5px;
+        margin-right:10px;
+        border:1px solid rgba(0,0,0,0.3);
+        border-radius:3px;
+        box-shadow:inset 0px 1px 3px 0px rgba(0,0,0,0.1),0px 1px 0px 0px rgba(250,250,250,0.5);
+        }
+        .count
+        {
+            counter-reset: Serial;
+        }
+        .count td:first-child:before
+        {
+            counter-increment: Serial;
+            content: counter(Serial);
+        }
+        
